@@ -12,5 +12,9 @@
 # See the License for the specific language governing permissions and
 # limitations under the License.
 
-source 'https://rubygems.org'
+source "https://rubygems.org"
+
+gem "appium_lib"
+gem "cucumber"
+
 gemspec
